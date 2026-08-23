@@ -140,11 +140,24 @@ DropNet is my main project — a **Flutter-based cross-platform local file-trans
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=android,windows,linux,apple&theme=dark" alt="Android Windows Linux Apple"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="56" height="56" alt="Android"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="56" height="56" alt="Windows"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="56" height="56" alt="Linux"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/apple.svg" width="56" height="56" alt="macOS"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br>
+<br><br>
 
-`Android`  •  `Windows`  •  `Linux`  •  `macOS`  •  `iOS`
+<code>ANDROID</code>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<code>WINDOWS</code>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<code>LINUX</code>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<code>iOS & MACOS</code>
 
 </div>
 
