@@ -1,252 +1,377 @@
-# 👋 Hey, I'm Arijeet Das
+<!-- ===================== HERO ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=180&section=header&text=Arijeet%20Das&fontSize=55&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=Software%20Engineer%20%7C%20Flutter%20%26%20Android%20Developer&descAlignY=60&descSize=18" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://arijeetdas.in">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Flutter+%26+Android+Developer;Building+apps+that+feel+fast+%26+intuitive;Exploring+Networking%2C+P2P+%26+AI;Learning+by+building+real+projects." alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+apps+that+feel+fast+%26+intuitive.;Flutter+%7C+Android+%7C+Networking+%7C+AI;Exploring+P2P+communication+%26+local+networks.;Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Improve." alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=120&section=header" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://arijeetdas.in">
-    <img src="https://img.shields.io/badge/Portfolio-arijeetdas.in-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-7F00FF?style=for-the-badge&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/arijeetdas-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Arijeet%20Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00C6FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:contact@arijeet.in">
-    <img src="https://img.shields.io/badge/Email-contact%40arijeet.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-FF4ECD?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/arijeetdas">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arijeetdas&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=arijeetdas&label=PROFILE+VIEWS&color=7F00FF&style=for-the-badge" alt="Profile views"/>
 </p>
 
----
+<br>
+
+<!-- ===================== ABOUT ===================== -->
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science Engineering student and aspiring Software Engineer** focused on building cross-platform and mobile applications.
+> ### **I don't just build apps. I like figuring out what makes them work.**
 
-My main playground is **Flutter**, but I'm equally interested in what happens underneath the UI — networking, sockets, local servers, device communication, APIs, performance, and platform-specific behaviour.
+I'm a **Computer Science Engineering student and aspiring Software Engineer** focused on **mobile, cross-platform and application development**.
 
-I learn best by **building real software, breaking it, debugging it, and figuring out why it broke.**
+My main playground is **Flutter**, but my curiosity goes deeper than UI.
+
+I enjoy exploring what happens underneath the interface — **networking, sockets, local servers, device discovery, APIs, P2P communication, platform behaviour and performance**.
+
+I learn best by building something real, breaking it, understanding why it broke, and then making it better.
 
 ```text
-💡 Build → Break → Understand → Fix → Improve → Repeat
+          ┌───────────┐
+          │   BUILD   │
+          └─────┬─────┘
+                ↓
+          ┌───────────┐
+          │   BREAK   │
+          └─────┬─────┘
+                ↓
+       ┌─────────────────┐
+       │   UNDERSTAND    │
+       └────────┬────────┘
+                ↓
+          ┌───────────┐
+          │    FIX    │
+          └─────┬─────┘
+                ↓
+        ┌──────────────┐
+        │   IMPROVE    │
+        └──────┬───────┘
+               ↺
 ```
 
-Currently, I'm especially interested in:
+### ⚡ Things I'm into
 
-* 📱 Cross-platform & native mobile development
-* 🌐 Networking & P2P communication
-* ⚡ Performance & application architecture
-* 🤖 AI-powered applications
-* 🐧 Cross-platform desktop development
-* 🧩 Understanding how software works beneath the UI
+|    📱 Mobile    |   🌐 Networking  |   🤖 AI   |   🖥️ Systems  |
+| :-------------: | :--------------: | :-------: | :------------: |
+|     Flutter     |   TCP / Sockets  |   GenAI   |      Linux     |
+|     Android     |        P2P       |  Image AI |  Desktop Apps  |
+|      Kotlin     |   Local Servers  |    SDXL   |    Packaging   |
+| Jetpack Compose | Device Discovery | Upscaling | Cross-platform |
 
 > **"Software should feel intuitive, responsive, polished, and enjoyable to use."**
 
 ---
 
-## 🚀 What I'm Building
-
-### 📡 DropNet
-
-**Cross-platform local file transfer — without depending on the internet.**
-
-DropNet is my main project: a Flutter-based file-transfer application designed to communicate directly between devices over a local network.
-
-It currently targets:
-
-**Android • Windows • Linux • macOS • iOS**
-
-Some of the things I've explored while building it:
-
-* 🔌 TCP socket communication
-* 🌐 Local networking
-* 🖥️ Local server architecture
-* 📡 Device discovery
-* 🔐 Private network profiles
-* 📱 Cross-platform UI
-* 🌍 Browser-based file receiving
-* 🖥️ Desktop packaging
-* 🐧 Linux AppImage / `.deb` distribution
-* 🍎 macOS builds
-* 📦 Android APK variants
-
-One of the interesting parts is the **app-free web portal**, allowing another device to receive files through a browser without installing DropNet.
+# 🚀 Featured Projects
 
 <p align="center">
   <a href="https://dropnet.arijeet.in">
-    <img src="https://img.shields.io/badge/🌐_Live_Website-dropnet.arijeet.in-58A6FF?style=for-the-badge" alt="DropNet website"/>
+    <img src="https://img.shields.io/badge/📡_DROP_NET-00C6FF?style=for-the-badge&logoColor=white"/>
   </a>
   <a href="https://git.dropnet.arijeet.in">
-    <img src="https://img.shields.io/badge/💻_Source-Code-161b22?style=for-the-badge&logo=github" alt="DropNet source"/>
+    <img src="https://img.shields.io/badge/VIEW_SOURCE-161B22?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
+## 📡 DropNet
+
+### **Local file sharing. No internet required.**
+
+My main project — a **Flutter-based cross-platform file transfer application** designed for direct communication between devices on a local network.
+
+<p align="center">
+
+`ANDROID`  • 
+`WINDOWS`  • 
+`LINUX`  • 
+`MACOS`  • 
+`IOS`
+
+</p>
+
+### 🔥 What I've explored while building it
+
+```text
+🔌 TCP Socket Communication
+📡 Device Discovery
+🌐 Local Networking
+🖥️ Local Server Architecture
+🔐 Private Network Profiles
+📱 Cross-Platform UI
+🌍 Browser-Based File Transfer
+🐧 Linux AppImage / DEB Packaging
+🪟 Windows Installer Packaging
+🍎 macOS Builds
+📦 Android APK Variants
+```
+
+### 🌍 One of my favourite features
+
+**The Web Portal.**
+
+A device can receive files through a browser without installing DropNet.
+
+```text
+             ┌─────────────┐
+             │   DEVICE A  │
+             │   DropNet   │
+             └──────┬──────┘
+                    │
+               Local Network
+                    │
+          ┌─────────┴─────────┐
+          │                   │
+          ▼                   ▼
+   ┌─────────────┐     ┌─────────────┐
+   │   DEVICE B  │     │   BROWSER   │
+   │   DropNet   │     │  Web Portal │
+   └─────────────┘     └─────────────┘
+```
+
+The project has also pushed me into areas I didn't originally know much about — from **socket programming and discovery mechanisms to Linux desktop integration and application packaging**.
+
 ---
-
-### 🎨 PixelPioneers AI
-
-An AI image generation and enhancement platform built with **Python + Streamlit**.
-
-It combines:
-
-* 🤖 Stable Diffusion XL
-* 🧠 Stability AI
-* 🚀 Replicate AI
-* 🔍 Real-ESRGAN
-* 🖼️ 2× / 4× / 8× image upscaling
-
-The project started from a simple idea:
-
-> **Generating an image is only half the problem — making the result actually usable is the other half.**
 
 <p align="center">
   <a href="https://pixpio.arijeet.in">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-pixpio.arijeet.in-58A6FF?style=for-the-badge" alt="PixelPioneers AI demo"/>
+    <img src="https://img.shields.io/badge/🎨_PIXELPIONEERS_AI-FF4ECD?style=for-the-badge"/>
   </a>
   <a href="https://git.pixpio.arijeet.in">
-    <img src="https://img.shields.io/badge/💻_Source-Code-161b22?style=for-the-badge&logo=github" alt="PixelPioneers AI source"/>
+    <img src="https://img.shields.io/badge/VIEW_SOURCE-161B22?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
----
+## 🎨 PixelPioneers AI
 
-## 🛠️ Tech Stack
+### **Generate → Enhance → Upscale**
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,python,java,kotlin,c,js,sql" alt="Programming languages"/>
-</p>
-
-### Mobile & Cross-Platform
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin" alt="Mobile technologies"/>
-</p>
-
-### Backend, Cloud & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,supabase" alt="Backend and databases"/>
-</p>
-
-### Tools & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,androidstudio" alt="Development tools"/>
-</p>
-
-### Concepts I Work With
-
-`OOP` · `Data Structures & Algorithms` · `Networking` · `Socket Programming` · `P2P Communication` · `REST APIs` · `Local Storage` · `Cross-Platform Development` · `Responsive UI` · `State Management`
-
----
-
-## 🧠 Currently Learning
+An AI image generation and enhancement platform built using **Python + Streamlit**.
 
 ```text
-Flutter Architecture       ███████████████████░  90%
-Advanced Flutter           ██████████████████░░  85%
-Networking & Sockets       ████████████████░░░░  80%
-Android Development        ████████████████░░░░  80%
-Data Structures & Algo     ███████████████░░░░░  75%
-AI Application Development ██████████████░░░░░░  70%
+              PROMPT
+                │
+                ▼
+       ┌─────────────────┐
+       │ Stable Diffusion│
+       │       XL        │
+       └────────┬────────┘
+                │
+                ▼
+          Generated Image
+                │
+                ▼
+       ┌─────────────────┐
+       │   Enhancement   │
+       │   Real-ESRGAN   │
+       └────────┬────────┘
+                │
+                ▼
+          2× / 4× / 8×
+             UPSCALE
 ```
 
-I'm currently going deeper into **Flutter architecture, state management, performance optimization and modern mobile application design** while continuing to strengthen my problem-solving and DSA fundamentals.
+### 🧠 Built with
+
+`Python` · `Streamlit` · `Stable Diffusion XL` · `Stability AI` · `Replicate AI` · `Real-ESRGAN`
+
+> **Generating an image is only half the problem — making the result actually usable is the other half.**
 
 ---
 
-## 💼 Experience
+# 🛠️ Tech Arsenal
 
-### Android Developer Virtual Internship
+## 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,python,java,kotlin,c,js&theme=dark" alt="Programming languages"/>
+</p>
+
+## 📱 Mobile & Cross-Platform
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin&theme=dark" alt="Mobile technologies"/>
+</p>
+
+## ☁️ Backend, Cloud & Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql&theme=dark" alt="Backend technologies"/>
+</p>
+
+## 🔧 Tools & Environment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode&theme=dark" alt="Development tools"/>
+</p>
+
+---
+
+## 🧩 Core Concepts
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OOP-7F00FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/DSA-00C6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Networking-00F5A0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Socket_Programming-FF4ECD?style=flat-square"/>
+<img src="https://img.shields.io/badge/P2P-FFB800?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST_APIs-7F00FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Local_Storage-00C6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/State_Management-00F5A0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Responsive_UI-FF4ECD?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cross--Platform-FFB800?style=flat-square"/>
+
+</p>
+
+---
+
+# 🧠 Currently Learning
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00F5A0&center=true&vCenter=true&width=650&lines=Going+deeper+into+Flutter+Architecture...;Exploring+State+Management+Patterns...;Learning+Performance+Optimization...;Strengthening+Networking+Fundamentals...;Improving+DSA+%26+Problem+Solving..." alt="Currently learning"/>
+</p>
+
+| Area          | Focus                                                |
+| ------------- | ---------------------------------------------------- |
+| 🟦 Flutter    | Architecture · State Management · Performance        |
+| 🟩 Android    | Kotlin · Jetpack Compose · Android internals         |
+| 🟨 Networking | Sockets · P2P · Local Servers · Discovery            |
+| 🟪 AI         | AI-powered applications · Image generation           |
+| 🟥 DSA        | Problem solving · Algorithms · Interview preparation |
+
+---
+
+# 💼 Experience
+
+## 📱 Android Developer Virtual Internship
 
 **EduSkills · Jan 2026 – Mar 2026**
 
-Worked through an Android development program with practical exposure to:
+Hands-on exposure to:
 
-* Kotlin
-* Jetpack Compose
-* Android fundamentals
-* Networking
-* Mobile UI development
-* Building Android applications
+`Kotlin` · `Jetpack Compose` · `Android Fundamentals` · `Networking` · `Mobile UI`
+
+Built practical Android applications as part of the program.
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-**B.Tech — Computer Science & Engineering**
-Dr. Sudhir Chandra Sur Institute Of Technology And Sports Complex · MAKAUT
+### B.Tech — Computer Science & Engineering
 
-`2023 – 2027` · **CGPA: 7.98**
+**Dr. Sudhir Chandra Sur Institute Of Technology And Sports Complex · MAKAUT**
 
-**Khalsa Model Senior Secondary School — CBSE**
+`2023 – 2027`   •   **CGPA: 7.98**
 
-`Class XII: 77%` · `Class X: 92.6%`
+### CBSE — Khalsa Model Senior Secondary School
 
----
-
-## 🏆 Certifications & Learning
-
-* 📱 **Flutter & Dart – The Complete Guide** — Udemy *(Ongoing)*
-* 🤖 **Android Developer Virtual Internship**
-* ☁️ Google Cloud Computing Foundations
-* ✨ Generative AI / Google GenAI Study Jams
+`Class XII: 77%`   •   `Class X: 92.6%`
 
 ---
 
-## 📊 GitHub Activity
+# 🏆 Certifications & Learning
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arijeetdas&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" height="170" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=arijeetdas&theme=github-dark-blue&hide_border=true" height="170" alt="GitHub streak"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijeetdas&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="170" alt="Top languages"/>
+<img src="https://img.shields.io/badge/Flutter_%26_Dart-Udemy-7F00FF?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Developer-EduSkills-00C6FF?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative_AI-FF4ECD?style=for-the-badge&logo=google&logoColor=white"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Activity
+# 📊 GitHub Universe
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arijeetdas&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arijeetdas&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=C9D1D9&icon_color=7F00FF&ring_color=FF4ECD&cache_seconds=1800" height="180" alt="GitHub statistics"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=arijeetdas&hide_border=true&background=0D1117&ring=FF4ECD&fire=FFB800&currStreakLabel=00C6FF&sideLabels=7F00FF&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" height="180" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijeetdas&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=C9D1D9&icon_color=7F00FF&cache_seconds=1800" height="220" alt="Top programming languages"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+# 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/arijeetdas">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arijeetdas&bg_color=0D1117&color=FFFFFF&line=00C6FF&point=FF4ECD&area_color=7F00FF&area=true&hide_border=true&custom_title=Arijeet's%20Contribution%20Graph" width="96%" alt="GitHub contribution activity graph"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arijeetdas&theme=radical" width="96%" alt="GitHub profile summary"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arijeetdas/arijeetdas/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+</p>
+
+<!--
+IMPORTANT:
+The snake image above requires a GitHub Actions workflow
+that generates github-contribution-grid-snake.svg in the
+"output" branch.
+
+Do not remove this comment until the workflow is configured.
+-->
+
+---
+
+# 🌐 Find Me Around The Internet
 
 <p align="center">
   <a href="https://arijeetdas.in">
-    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/arijeetdas-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00C6FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:contact@arijeet.in">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/contact%40arijeet.in-FF4ECD?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/arijeetdas">
-    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
+<br>
+
 <p align="center">
-  <i>Building things. Breaking things. Learning why.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=3500&pause=1200&color=7F00FF&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Feel+free+to+explore+my+projects.;Maybe+you'll+find+something+interesting+here+%F0%9F%9A%80" alt="Closing animation"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=100&section=footer" width="100%" />
+  <b>Build something. Break something. Learn something.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>
