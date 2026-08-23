@@ -371,14 +371,18 @@ Developed basic Android applications as part of practical learning modules.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arijeetdas/arijeetdas/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arijeetdas/arijeetdas/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/arijeetdas/arijeetdas/output/github-snake.svg" alt="Arijeet Das GitHub contribution snake"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/arijeetdas/arijeetdas/gh-pages/github-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/arijeetdas/arijeetdas/gh-pages/github-snake.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/arijeetdas/arijeetdas/gh-pages/github-snake.svg"
+    alt="Arijeet Das GitHub contribution snake">
 </picture>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=3000&pause=900&color=00C6FF&center=true&vCenter=true&width=700&lines=Every+commit+tells+a+story.;Every+bug+teaches+something.;Every+project+is+another+step+forward." alt="Contribution animation"/>
 
 </div>
 
